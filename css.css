@@ -1,0 +1,47 @@
+body, h1, h2, h3, h4, h5, h6, ul, p {
+    margin: 0;
+    padding: 0
+}
+.vaaleykum input, .vaaleykum textarea{
+    margin: 3% auto;
+    width: 100%
+}
+.zor{
+    width: 70%;
+    margin: 0 auto;
+}
+#qanay{
+    background-color: coral;
+}
+#qanay h1{
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 10px 0;
+}
+#qanday{
+    background-color: #333
+}
+#qanday .zor ul li {
+    list-style-type: none;
+    display: inline;
+}
+#qanday ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px 10px;
+    display: inline-block;
+}
+.content{
+    float: left ;
+    width: 10%;
+    box-sizing: border-box;
+    padding-right: 30px;
+}
+.sidebar{
+    float:left;
+    width:90%;
+    box-sizing: border-box;
+    padding: 30px 10px;
+    background-color: black;
+    color: #ffffff;
+}
